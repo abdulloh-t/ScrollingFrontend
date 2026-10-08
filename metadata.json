@@ -1,0 +1,6 @@
+{
+  "name": "NeuroFlow — The Architecture of Learning",
+  "description": "An interactive, scroll-driven visual journey into the human brain exploring synaptic plasticity, neural pathways, and the science of learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
